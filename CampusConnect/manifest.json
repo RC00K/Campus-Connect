@@ -1,0 +1,13 @@
+{
+    "name": "Campus Connect",
+    "short_name": "CC",
+    "description": "Mangage your campus ministry",
+    "start_url": "/index.html",
+    "scope": ".",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#FFE9D2",
+    "theme_color": "#FFE1C4",
+    "dir": "ltr",
+    "lang": "en-US"
+}
